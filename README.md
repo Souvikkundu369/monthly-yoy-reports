@@ -2,7 +2,7 @@
 
 > **Every month, leadership opens a single HTML file and sees exactly how the business performed — vs last month, vs last year, across every outlet and every revenue stream.**
 
-A recurring management reporting pipeline for a 22-outlet, 2-brand entertainment chain. Three fragmented POS systems. One reconciled, drill-down report. Delivered every month without rebuilding.
+A recurring management reporting pipeline for a 25+-outlet, 2-brand entertainment chain. Three fragmented POS systems. One reconciled, drill-down report. Delivered every month without rebuilding.
 
 Reports live: **May 2026 vs May 2025** · **June 2026 vs June 2025** · *(new report every month)*
 
