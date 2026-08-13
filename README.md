@@ -4,7 +4,7 @@
 
 A recurring management reporting pipeline for a 25+-outlet, 2-brand entertainment chain. Three fragmented POS systems. One reconciled, drill-down report. Delivered every month without rebuilding.
 
-Reports live: **May 2026 vs May 2025** · **June 2026 vs June 2025** · *(new report every month)*
+Reports live: **May 2026 vs May 2025** · **June 2026 vs June 2025** · **July 2026 vs July 2025** · *(new report every month)*
 
 ---
 
@@ -131,7 +131,8 @@ Before this pipeline: monthly performance review required manual exports from 3 
 After: the report is ready within minutes of the month closing. Leadership has the same version of the numbers. Outlet managers can be shown exactly where they stand vs last year, outlet by outlet, metric by metric.
 
 **May 2026 report:** ₹X total revenue · N outlets covered · YoY delta computed across 25+ metrics  
-**June 2026 report:** ₹X total revenue · Full F&B reconciliation including The Knockout sports bar
+**June 2026 report:** ₹X total revenue · Full F&B reconciliation including The Knockout sports bar  
+**July 2026 report:** ₹X total revenue · Automated same-cluster cannibalization detection (one outlet's decline traced precisely to a sibling location's gain, down to single-digit percentage precision) · Partial-prior-year-base outlets auto-excluded from headline YoY% so a mid-month launch anniversary doesn't report a misleading triple-digit "growth" figure
 
 ---
 
