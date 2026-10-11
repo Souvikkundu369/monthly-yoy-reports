@@ -130,9 +130,29 @@ Before this pipeline: monthly performance review required manual exports from 3 
 
 After: the report is ready within minutes of the month closing. Leadership has the same version of the numbers. Outlet managers can be shown exactly where they stand vs last year, outlet by outlet, metric by metric.
 
-**May 2026 report:** ₹X total revenue · N outlets covered · YoY delta computed across 25+ metrics  
-**June 2026 report:** ₹X total revenue · Full F&B reconciliation including The Knockout sports bar  
-**July 2026 report:** ₹X total revenue · Automated same-cluster cannibalization detection (one outlet's decline traced precisely to a sibling location's gain, down to single-digit percentage precision) · Partial-prior-year-base outlets auto-excluded from headline YoY% so a mid-month launch anniversary doesn't report a misleading triple-digit "growth" figure
+**May 2026:** first report in the series; YoY delta computed across 25+ metrics for every outlet
+**June 2026:** full F&B reconciliation added, including the sports-bar brand
+**July 2026:** automated same-cluster cannibalisation detection (one outlet's decline traced precisely to a sibling location's gain) · outlets with only a partial prior-year base auto-excluded from the headline YoY %, so a mid-month launch anniversary can't report a misleading triple-digit "growth" figure
+**August–September 2026:** new outlets folded in as they open · one outlet's F&B now read directly from its POS after the shared database was found to under-read it, a figure verified against bank deposits rather than assumed
+
+---
+
+## Seasonal analysis: planning for the festival rush
+
+The same data powers one-off analyses when the business needs a decision, not a monthly record. Ahead of the 2026 festival season the question was simple: **which stores need every staff member on the floor, and on which days?**
+
+**Method.** Each store's festival days in 2025 were compared with its own normal days, separating weekdays from weekends, because a festival weekday should be compared with a normal weekday, not with an average that includes Saturdays. Festival days were aligned by the festival calendar rather than the date, since the festivals move each year.
+
+**What 2025 actually showed:**
+- In the eastern belt, where Durga Puja is the main festival, guests rose by **around 80%** over a normal day, festival *weekdays* by around **160%**, and the rush ran for about three days after the festival formally ended.
+- Where Navratri is the main festival, footfall was **flat**, except Dussehra itself, at 1.5–3.4× a normal day.
+- One southern outlet behaved like the eastern belt (+43%) for a different reason: **school holidays**.
+
+That last point changed the plan. "Festival season" isn't one effect, it's several, and a single chain-wide rule would have over-staffed half the stores and under-staffed the rest.
+
+**Stores with no 2025 history** (opened since) borrowed the pattern of comparable stores in the same region, and their forecasts were deliberately capped at *High* rather than projected to extremes from someone else's data.
+
+**Output:** a per-store crowd level for every festival day of 2026, and a no-week-off notice with dates specific to each region, issued before the rush rather than after it.
 
 ---
 
