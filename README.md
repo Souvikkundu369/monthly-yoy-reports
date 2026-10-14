@@ -154,6 +154,16 @@ That last point changed the plan. "Festival season" isn't one effect, it's sever
 
 **Output:** a per-store crowd level for every festival day of 2026, and a no-week-off notice with dates specific to each region, issued before the rush rather than after it.
 
+### New-store forecast: setting costs from three weeks of data
+
+A store that has been open for three weeks has no history to forecast from, yet its running costs had to be set. The forecast for its first full month:
+
+- **Three scenarios (low / base / high)**, with every assumption on an editable sheet rather than buried in formulas, so management can change an input and see the result.
+- **Weekdays and weekends forecast separately**, because they behaved like two different businesses: weekday sales were a small fraction of weekend sales.
+- **Birthday parties modelled as their own driver.** Each party brings a large package plus café spend, so a handful of bookings moves the whole month.
+- **Comparison with established stores in the same region**, to show where the new store sits against its realistic ceiling.
+- A **profit check** on the summary sheet: enter a cost figure and see it against each scenario.
+
 ---
 
 ## Tech stack
